@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+*.xml
+*.iml
+*.jpg
+src/app.log.2019-06-21
+src/app.log.2019-07-04
+src/SignBase.db
+*.db

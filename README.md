@@ -1,1 +1,2 @@
 # OpenCV_Recongnition
+使用OpenCV+PyQt5开发的一个签到客户端
