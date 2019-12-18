@@ -6,6 +6,8 @@
 使用LBPH作为识别算法。
 
 <hr />
+
+
 ##### A human face recognition check-in client developed with OpenCV + pyqt5 
 
  Including the following functions: registration, face data collection, face data training, database management,  Identification, etc 
